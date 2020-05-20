@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Watch Now
+          Watch Now!
         </a>
       </header>
     </div>
