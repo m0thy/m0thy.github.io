@@ -40,6 +40,15 @@ function App() {
 
         <a
           className="App-link"
+          href="https://streamelements.com/onecrazyluna/tip"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Leave a donation!
+        </a>
+        
+        <a
+          className="App-link"
           href="https://www.twitch.tv/onecrazyluna"
           target="_blank"
           rel="noopener noreferrer"
